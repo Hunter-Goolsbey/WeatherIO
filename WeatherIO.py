@@ -1,5 +1,6 @@
 import requests
 import json
+import pandas as pd
 
 #handles get request calls to RestAPI
 def get_BuildA(url, auth):
